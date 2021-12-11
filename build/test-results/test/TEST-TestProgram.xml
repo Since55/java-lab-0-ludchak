@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestProgram" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-12-11T12:16:55" hostname="Ruslans-MacBook-Air.local" time="0.055">
+  <properties/>
+  <testcase name="arrayTest[0]([I@7a419da4, 5)" classname="TestProgram" time="0.005"/>
+  <testcase name="arrayTest[1]([I@78123e82, -1)" classname="TestProgram" time="0.0"/>
+  <testcase name="arrayTest[2]([I@fba92d3, -1)" classname="TestProgram" time="0.0"/>
+  <testcase name="booleanTest[0](-3, 3, 5, true)" classname="TestProgram" time="0.0"/>
+  <testcase name="booleanTest[1](-5, 6, -1, false)" classname="TestProgram" time="0.0"/>
+  <testcase name="caseTest[0](1980, The year of black pig)" classname="TestProgram" time="0.0"/>
+  <testcase name="caseTest[1](2020, The year of yellow rabbit)" classname="TestProgram" time="0.001"/>
+  <testcase name="caseTest[2](-5, Invalid data)" classname="TestProgram" time="0.0"/>
+  <testcase name="forTest[0](-5, -1)" classname="TestProgram" time="0.0"/>
+  <testcase name="forTest[1](0, 1)" classname="TestProgram" time="0.0"/>
+  <testcase name="forTest[2](5, 120)" classname="TestProgram" time="0.0"/>
+  <testcase name="ifTest[0]([I@32ee6fee, -1)" classname="TestProgram" time="0.001"/>
+  <testcase name="ifTest[1]([I@7133da86, -1)" classname="TestProgram" time="0.001"/>
+  <testcase name="ifTest[2]([I@28f2a10f, 2)" classname="TestProgram" time="0.0"/>
+  <testcase name="integerTest[0](3601, 60)" classname="TestProgram" time="0.001"/>
+  <testcase name="integerTest[1](-5, -1)" classname="TestProgram" time="0.001"/>
+  <testcase name="matrixTest[0]([[I@35aea049, [I@7205765b)" classname="TestProgram" time="0.0"/>
+  <testcase name="minMaxTest[0]([I@22ef9844, 1)" classname="TestProgram" time="0.0"/>
+  <testcase name="minMaxTest[1]([I@3b6ddd1d, 5)" classname="TestProgram" time="0.0"/>
+  <testcase name="whileTest[0](-5, -1)" classname="TestProgram" time="0.0"/>
+  <testcase name="whileTest[1](0, 0)" classname="TestProgram" time="0.0"/>
+  <testcase name="whileTest[2](1234, 4321)" classname="TestProgram" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
